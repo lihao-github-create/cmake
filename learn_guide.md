@@ -2,6 +2,8 @@
 
 你已经有 C++、GCC、VSCode 经验，所以可以直接从工程实践开始。
 
+开始练习前，可以使用仓库提供的容器环境：[CMake 通用学习环境](doc/00_development_environment.md)。
+
 ## 第一阶段：先搞懂 CMake 在做什么
 
 本阶段归纳笔记：[第一阶段：理解 CMake 在做什么](doc/01_cmake_overview.md)
@@ -57,6 +59,8 @@ cmake .
 ---
 
 ## 第二阶段：第一个 CMake 项目
+
+本阶段归纳笔记：[第二阶段：第一个 CMake 项目](doc/02_first_cmake_project.md)
 
 目录：
 
