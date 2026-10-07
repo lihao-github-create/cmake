@@ -123,6 +123,8 @@ add_executable(...)
 
 ## 第三阶段：一定要建立“Target 思维”
 
+本阶段归纳笔记：[第三阶段：建立 Target 思维](doc/03_target_model.md)
+
 这是现代 CMake 最重要的一点。
 
 假设：
