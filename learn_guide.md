@@ -255,6 +255,8 @@ target_link_libraries()
 
 ## 第五阶段：彻底理解 PRIVATE / PUBLIC / INTERFACE
 
+本阶段归纳笔记：[第五阶段：PRIVATE、PUBLIC 与 INTERFACE](doc/05_usage_requirements.md)
+
 这是 CMake 初学阶段最值得花时间的知识点。
 
 例如：
