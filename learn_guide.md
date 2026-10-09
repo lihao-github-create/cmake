@@ -318,6 +318,8 @@ target_include_directories(my_headers
 
 ## 第六阶段：学习多目录工程
 
+本阶段归纳笔记：[第六阶段：多目录工程](doc/06_multi_directory.md)
+
 真实工程一般不会只有一个 `CMakeLists.txt`。
 
 比如：
