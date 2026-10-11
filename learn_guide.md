@@ -443,6 +443,8 @@ Foo::Bar
 
 ## 第八阶段：学会 Debug / Release
 
+本阶段归纳笔记：[第八阶段：Debug / Release 与构建配置](doc/08_build_configurations.md)
+
 常见命令：
 
 ```bash
