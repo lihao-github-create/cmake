@@ -389,6 +389,8 @@ add_subdirectory()
 
 ## 第七阶段：第三方库
 
+本阶段归纳笔记：[第七阶段：第三方库](doc/07_external_libraries.md)
+
 这是你以后做 ROS2、CUDA、Eigen、Fast DDS 都会大量遇到的。
 
 最典型：
