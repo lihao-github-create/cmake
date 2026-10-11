@@ -2,7 +2,7 @@
 
 本仓库用于按照 [CMake 学习指南](learn_guide.md) 逐步练习现代 CMake，并提供一个基于 Ubuntu 22.04 的通用 C/C++ 开发环境。
 
-容器内预装 GCC、Clang、CMake、GNU Make、Ninja、GDB、Git、pkg-config 和 Python 3。仓库目录会挂载到容器内的 `/workspace`。
+容器内预装 GCC、Clang、CMake、GNU Make、Ninja、GDB、Git、pkg-config、Python 3 和 Eigen3（`libeigen3-dev`）。仓库目录会挂载到容器内的 `/workspace`。
 
 ## 准备条件
 
@@ -54,6 +54,7 @@ clang++ --version
 make --version
 ninja --version
 gdb --version
+dpkg -s libeigen3-dev
 ```
 
 当练习目录中存在 `CMakeLists.txt` 后，可以使用标准构建流程：

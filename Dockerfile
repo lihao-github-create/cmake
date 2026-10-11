@@ -10,6 +10,7 @@ RUN apt-get update \
         cmake \
         gdb \
         git \
+        libeigen3-dev \
         ninja-build \
         pkg-config \
         python3 \
