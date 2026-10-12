@@ -487,6 +487,8 @@ multi-config
 
 ## 第九阶段：学会看 CMake 到底执行了什么
 
+本阶段归纳笔记：[第九阶段：查看 CMake 到底执行了什么](doc/09_inspecting_build.md)
+
 非常实用：
 
 ```bash
