@@ -576,6 +576,8 @@ CMAKE_CXX_COMPILER
 
 ## 第十一阶段：测试
 
+本阶段归纳笔记：[第十一阶段：使用 CTest 测试](doc/11_testing.md)
+
 建议顺手学习 CTest：
 
 ```cmake
