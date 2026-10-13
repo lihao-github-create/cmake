@@ -44,6 +44,10 @@ Build/
 build-*/
 build_*/
 
+# Generated artifacts from the installation exercise
+/exercises/11_testing/install/
+/exercises/11_testing/consumer
+
 # CMake generated files
 CMakeFiles/
 CMakeCache.txt
