@@ -1,0 +1,5 @@
+message(STATUS "Configuring extras")
+message(STATUS "Root source: ${CMAKE_SOURCE_DIR}")
+message(STATUS "Current source: ${CMAKE_CURRENT_SOURCE_DIR}")
+message(STATUS "Root binary: ${CMAKE_BINARY_DIR}")
+message(STATUS "Current binary: ${CMAKE_CURRENT_BINARY_DIR}")

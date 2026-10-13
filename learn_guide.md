@@ -531,6 +531,8 @@ build/CMakeCache.txt
 
 ## 第十阶段：变量和条件判断
 
+本阶段归纳笔记：[第十阶段：变量和条件判断](doc/10_variables_and_conditions.md)
+
 这部分可以稍后学，不要一开始沉迷 CMake 脚本语法。
 
 例如：
