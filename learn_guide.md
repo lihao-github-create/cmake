@@ -610,6 +610,8 @@ CMake + GoogleTest + CTest
 
 ## 第十二阶段：install
 
+本阶段归纳笔记：[第十二阶段：安装与导出 CMake 包](doc/12_install_and_packages.md)
+
 当你开始考虑“我的库怎么给别人用”，就学习：
 
 ```cmake
